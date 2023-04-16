@@ -11,7 +11,7 @@
 
 
 
-
+/* HEADER */
 
 /* navigator */
 
@@ -34,23 +34,34 @@
 
 
 
+/* MAIN */
+
+/* portfolio */
+
+#portfolio{
+    padding: 30px 13%;
+}
 
 
 
 
 
+/* about */
+
+#about{
+    background-color: rgba(26,188,156,255);
+    padding: 20px 13%;
+}
 
 
 
 
 
+/* contact me */
 
-
-
-
-
-
-
+#contact_me{
+    padding: 30px 13% 20px;
+}
 
 
 
