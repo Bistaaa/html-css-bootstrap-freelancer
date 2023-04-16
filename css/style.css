@@ -1,0 +1,93 @@
+/* regole generali */
+
+.white{
+    color: white;
+}
+
+.main_color{
+    color: rgba(44,62,80,255);
+}
+
+
+
+
+
+
+/* navigator */
+
+#nav{
+    background-color: rgba(44,62,80,255);
+    padding: 10px 13%;
+}
+
+
+/* jumbotron */
+
+#jumbotron{
+    background-color: rgba(26,188,156,255);
+    padding: 20px 13%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* REGOLE DEBUG */
+
+[class*="col"]{
+    background-color: blueviolet;
+    border: 3px solid black;
+    height: 50px;
+}
+
+.square_debug{
+    background-color: blueviolet;
+    border: 3px solid black;
+    height: 400px;
+    width: 400px;
+}
+
+
+
+
+
+
+
+
+
+
