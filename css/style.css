@@ -8,7 +8,9 @@
     color: rgba(44,62,80,255);
 }
 
-
+.main_color_black{
+    color: rgba(51,51,51,255);
+}
 
 
 /* HEADER */
@@ -63,7 +65,7 @@ h1{
 
 .splitter_row_white{
     border: 2px solid white;
-    width: 25%;
+    width: 200px;
     height: 0;
 }
 
@@ -91,12 +93,11 @@ h1{
 
 h2{
     font-size: 50px;
-    color: rgba(51,51,51,255);
 }
 
 .splitter_row_main_color{
     border: 2px solid rgba(44,62,80,255);
-    width: 25%;
+    width: 200px;
     height: 0;
 }
 
@@ -126,8 +127,27 @@ h2{
 
 #about{
     background-color: rgba(26,188,156,255);
-    padding: 20px 13%;
+    padding: 20px 20%;
 }
+
+
+.about_text{
+    font-size: 20px;
+}
+
+#download_button{
+    border-radius: 15px;
+    border: 1px solid white;
+    padding: 5px;
+    margin: auto;
+}
+
+
+
+
+
+
+
 
 
 
@@ -139,9 +159,16 @@ h2{
     padding: 30px 13% 20px;
 }
 
+#bottom_hr{
+    margin-top: 120px;
+}
 
-
-
+#send{
+    background-color: rgba(26,188,156,255);
+    padding: 10px 15px;
+    border-radius: 10px;
+    font-size: 20px;
+}
 
 
 
