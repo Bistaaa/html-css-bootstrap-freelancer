@@ -17,8 +17,32 @@
 
 #nav{
     background-color: rgba(44,62,80,255);
-    padding: 10px 13%;
+    padding: 20px 13%;
 }
+
+#nav_list{
+    list-style: none;
+    gap: 20px;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+#start_bootstrap{
+    font-size: 25px;
+    font-weight: 700;
+}
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 /* jumbotron */
