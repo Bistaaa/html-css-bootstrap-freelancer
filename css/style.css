@@ -41,15 +41,38 @@
 
 
 
-
-
-
-
 /* jumbotron */
 
 #jumbotron{
     background-color: rgba(26,188,156,255);
-    padding: 20px 13%;
+    padding: 20px 30%;
+    min-height: 400px;
+}
+
+#avatar{
+    height: 200px;
+}
+
+h1{
+    font-size: 60px;
+}
+
+#splitter{
+    gap: 15px;
+}
+
+.splitter_row{
+    border: 2px solid white;
+    width: 25%;
+    height: 0;
+}
+
+#star{
+    font-size: 30px;
+}
+
+#skills{
+    font-size: 27px;
 }
 
 
@@ -141,8 +164,8 @@
 .square_debug{
     background-color: blueviolet;
     border: 3px solid black;
-    height: 400px;
-    width: 400px;
+    min-height: 400px;
+    min-width: 400px;
 }
 
 
